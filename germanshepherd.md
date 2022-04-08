@@ -1,7 +1,7 @@
 # Hello there!
 **German shepherds are *awesome* dogs!**  
 [Click here to learn about German Shepherds!](https://www.thesprucepets.com/breed-profile-german-shepherd-dog-1117967)  
-![Dog](https://www.thesprucepets.com/breed-profile-german-shepherd-dog-1117967)  
+![Dog](https://www.thesprucepets.com/thmb/LndlJTIok9mVYGN4vlxX0dBYk_I=/1333x1000/smart/filters:no_upscale()/breed_profile_germansheperd_1118000_profile_2608-d7a78e7c1cf049879bec1ec19113ee42.jpg)  
 ---  
 
 > Dog!  
