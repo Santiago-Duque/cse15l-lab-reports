@@ -1,2 +1,1 @@
-Computer Science yay
-Is this working?
+Computer Science Yay!
