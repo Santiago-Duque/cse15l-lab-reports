@@ -12,7 +12,7 @@ your password when you enter it, as the password is encrypted for security. If y
 Description: Connecting to the server will allow you to run commands to play with the files within the server, as seen in further steps.  
 
 
-3. **Run some commands!** There are various commands that you can run in the terminal to see information about your files, such as:  
+3. **Run some commands!**: There are various commands that you can run in the terminal to see information about your files, such as:  
 -cd ~  
 -cd  
 -ls -lat  
@@ -21,7 +21,7 @@ Description: Connecting to the server will allow you to run commands to play wit
 Description: There are various commands you can use, and each command brings up different information. For example, a lot of information popped
 up when I ran the ls -lat command!
 
-4. **Move some files with scp!** The `scp` command copies files from your computer (**the client**) to a remote computer  
+4. **Move some files with scp!**: The `scp` command copies files from your computer (**the client**) to a remote computer  
 (**not logged into the ieng6 server**)  Let's make a sample file to move! Make a file in VScode with the following contents:  
 class WhereAmI {  
   public static void main(String[] args) {  
@@ -36,6 +36,7 @@ Next Step: type: `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/`
 log in with **ssh cs15lsp22zz@ieng6.ucsd.edu** again, and then type `ls` [`This is what you should see!`](https://1drv.ms/u/s!Ansq7KSJulGthWkyWHxbD9CWkx6B?e=YbOc0r)  
 Description: I created a file to transfer from my computer to a remote server using scp. It was a similar process as the beginning steps, as I had to log in to the ssh account again!  
 
-5. **Setting an SSH Key** the ssh-keygen command creates a public key and private key; saving the hassle of needing to keep logging in to the ssh account within the terminal! In the terminal, type: `ssh-keygen -t ed25519`. You will see it says: Enter file in which to save the key  
+5. **Setting an SSH Key**: the ssh-keygen command creates a public key and private key; saving the hassle of needing to keep logging in to the ssh account within the terminal! In the terminal, type: `ssh-keygen **OR** ssh-keygen -t ed25519`. You will see it says: Enter file in which to save the key  
 (/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa. Replace <user-name> with the username on your computer, and click enter twice for the two prompts that pop up after such action. [`This is what you should see after following each step!`](https://1drv.ms/u/s!Ansq7KSJulGthWp5qjU_n3O3btqO?e=nZi72E)  
- 
+  
+6. **Optimize Remote Running**:
