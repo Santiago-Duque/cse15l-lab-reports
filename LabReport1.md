@@ -37,7 +37,7 @@ log in with **ssh cs15lsp22zz@ieng6.ucsd.edu** again, and then type `ls` [`This 
 Description: I created a file to transfer from my computer to a remote server using scp. It was a similar process as the beginning steps, as I had to log in to the ssh account again!  
 
 5. **Setting an SSH Key**: the ssh-keygen command creates a public key and private key; saving the hassle of needing to keep logging in to the ssh account within the terminal! In the terminal, type: `ssh-keygen OR ssh-keygen -t ed25519`. You will see it says: Enter file in which to save the key  
-(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa. Replace <user-name> with the username on your computer, and click enter twice for the two prompts that pop up after such action. [`This is what you should see after following each step!`](https://1drv.ms/u/s!Ansq7KSJulGthWp5qjU_n3O3btqO?e=nZi72E)  
+(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa. Replace <user-name> with the username on your computer, and click enter twice for the two prompts that pop up after such action. [`This is what you should see after following each step!`](https://1drv.ms/u/s!Ansq7KSJulGthWp5qjU_n3O3btqO?e=nZi72E)    
   
 6. **Optimize Remote Running**: Found ways to run commands in the terminal more efficiently! Saves time and the number of writing needed for a command to run!  
   [`An example of optimization can be seen here`](https://1drv.ms/u/s!Ansq7KSJulGthWw7k9wsBD3Uu7BG?e=usfg7D)  
