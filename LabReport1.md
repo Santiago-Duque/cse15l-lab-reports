@@ -20,9 +20,9 @@ Description: Connecting to the server will allow you to run commands to play wit
 -ls -lat  
 -ls -a  
 I tried the command ls -lat, and look what popped up!  
-![Running Some Commands CSE 15L](https://user-images.githubusercontent.com/103283657/163918189-311c28fa-acca-4cce-bd1e-33e280cc34f4.png)    
+![Running Some Commands CSE 15L](https://user-images.githubusercontent.com/103283657/163918189-311c28fa-acca-4cce-bd1e-33e280cc34f4.png)  
 Description: There are various commands you can use, and each command brings up different information. For example, a lot of information popped
-up when I ran the ls -lat command!
+up when I ran the ls -lat command!  
   
 4. **Move some files with scp!**: The `scp` command copies files from your computer (**the client**) to a remote computer  
 (**not logged into the ieng6 server**)  Let's make a sample file to move! Make a file in VScode with the following contents:  
