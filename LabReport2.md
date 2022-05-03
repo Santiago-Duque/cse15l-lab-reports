@@ -2,10 +2,18 @@
   
 `Code Change #1:`  
 ![Code Change #1 CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/165244426-fd851016-f3e6-4f98-ad01-f263313eef67.png)  
-I edited the block of code (red is original, green is edited) because the following test:  
-![Code Change #1 Broken Link CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/165246249-077cd135-1297-46d6-af93-60cf8a89b8be.png)  
-resulted with the output being:  
-![Code Change #1 Wrong Output CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/165245636-1f676151-58d8-4906-80a0-cd661e8d6dd2.png)  
-instead of `[https://nothing.com, no-thing.html]`  
+[Link to the failure-inducing file](https://github.com/Santiago-Duque/cse15l-lab-reports/files/8608946/test-file2.md)  
   
-**THINGS TO NOTE:** Since the original code only detects for parentheses and brackets, the output expected was not received. Therefore, I had to comment out the lines of code involving brackets in order to solely detect parentheses. By detecting parentheses, the links for each item were detected and printed out as expected.  
+Symptom: Wrong Answer Produced!  
+  
+![First Symptom CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166419287-aa6a2b2e-2940-4cee-9d04-115edfd3375c.png)  
+The first symptom was caused because everything to the right of the first bracket was detected, which produced the wrong output. The code change allowed code to the right of the first parenthesis to be detected, which produced the correct output.  
+  
+  
+`Code Change #2:`  
+![Second Code Change CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166422098-9e2c12a0-5186-4090-9742-8e2ebe67e839.png)  
+[Link to the failure-inducing file](https://github.com/Santiago-Duque/cse15l-lab-reports/files/8609099/test-file3.md)  
+  
+Symptom: An Infinite Loop!  
+![Second Symptom CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166421553-211a4f59-5d92-4824-834e-d28b8c15ce05.png)  
+
