@@ -16,4 +16,13 @@ The first symptom was caused because everything to the right of the first bracke
   
 Symptom: An Infinite Loop!  
 ![Second Symptom CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166421553-211a4f59-5d92-4824-834e-d28b8c15ce05.png)  
+The toReturn arraylist would return an infinite loop because, in specific test cases where a closing bracket or parenthesis were not present, the code would infinitely run through each index. Therefore, this code ensures there's an open bracket or parenthesis through checking if it does NOT, resulting in the return of the toReturn arraylist.
+  
+`Code Change #3:`  
+![Third Code Change CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166423815-2132e2d9-ab71-4b51-8e39-d7c73c7aaddd.png)  
+[Link to the failure-inducing file](https://github.com/Santiago-Duque/cse15l-lab-reports/files/8609196/test-file2.md)  
+  
+Symptom: Another Infinite Loop!  
+![Third Symptom CSE 15L Lab Report #2](https://user-images.githubusercontent.com/103283657/166424116-597537a9-8e7e-41a6-abea-78459fab7f13.png)  
+I tried changing the location in which the code would put an end to the infinite loop. After detecting the brackets and the parenthesis, the infinite loop was paused!
 
