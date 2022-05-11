@@ -1,1 +1,10 @@
-`Lab Report 3`
+## Lab Report 3  
+**#1: Streamlining ssh Configuration ->**  
+After opening the .ssh folder from my files into VScode, I wrote the following code:
+![Lab Report #3 CSE 15L Streamlining ssh Configuration Code](https://user-images.githubusercontent.com/103283657/167768078-92c2fc98-89bb-44f5-8004-bc53e9936b56.png)   
+  
+Which resulted in the following output:  
+![Lab Report #3 CSE 15L Streamlining ssh Configuration Terminal Output](https://user-images.githubusercontent.com/103283657/167768379-2d6e13b6-e3e7-44bc-a200-df7427ed7a69.png)  
+  
+  
+**#2: Setting up Github Access from ieng6
