@@ -1,6 +1,6 @@
 ## Lab Report 3  
 **#1: Streamlining ssh Configuration ->**  
-After opening the .ssh folder from my files into VScode, I wrote the following code:
+After opening the .ssh folder from the File Explorer into VScode, I wrote the following code:
 ![Lab Report #3 CSE 15L Streamlining ssh Configuration Code](https://user-images.githubusercontent.com/103283657/167768078-92c2fc98-89bb-44f5-8004-bc53e9936b56.png)   
   
 Which resulted in the following output:  
