@@ -14,4 +14,7 @@ I stored the public ssh key in github, which looks like this:
 **#3: Copy Whole Directory With scp -r**  
 I copied my whole markdown-parser directory into my ieng6 account as seen here:  
 ![Copy Whole Directory Lab Report #3 CSE 15L](https://user-images.githubusercontent.com/103283657/168692016-0935a5ac-2e0e-4c28-9dc6-4a8cbbad508a.png)  
+  
+You can see that the directory appears in the ieng6 account:  
+![Logging Into ieng6, Running Commands CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168693487-7b23f0e3-094d-4975-a576-8816afe15763.png)  
 
