@@ -17,4 +17,7 @@ I copied my whole markdown-parser directory into my ieng6 account as seen here:
   
 You can see that the directory appears in the ieng6 account:  
 ![Logging Into ieng6, Running Commands CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168693487-7b23f0e3-094d-4975-a576-8816afe15763.png)  
+  
+This is what happens when I combine everything to copy the whole directory!:  
+![Scp CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168694693-ea893c35-5141-4195-b4dd-3a1f3ea75116.png)  
 
