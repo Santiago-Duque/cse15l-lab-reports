@@ -19,6 +19,8 @@ This is what my private key looks like:
   
 I can also run git commands in the remote server, as seen here:  
 ![Git Commands in ieng6 CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168866111-c76d0f74-eb12-4aa6-beaf-262c32999aab.png)  
+  
+[Changes made towards Github may be seen here](https://github.com/Santiago-Duque/skilldemo/commit/99c9625522335429a05236c284bf0664caa4ed46)
 
   
 **#3: Copy Whole Directory With scp -r**  
