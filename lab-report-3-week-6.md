@@ -15,7 +15,7 @@ I stored the public ssh key in github, which looks like this:
 ![Public Key ieng6 CSE 15L Lab Report #3 Screenshot](https://user-images.githubusercontent.com/103283657/168690065-598ad911-34e1-496a-9e6c-6a52ea75ac17.png)  
   
 This is what my private key looks like:  
-![Private Key CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168862089-e5ea11a6-5306-45ec-9dbf-d288b273e70b.png)  
+![Private Key CSE 15L](https://user-images.githubusercontent.com/103283657/168888015-c424603d-301e-4f43-9015-571b7d678c82.png)  
   
 I can also run git commands in the remote server, as seen here:  
 ![Git Commands in ieng6 CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168866111-c76d0f74-eb12-4aa6-beaf-262c32999aab.png)  
