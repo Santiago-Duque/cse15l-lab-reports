@@ -16,6 +16,9 @@ I stored the public ssh key in github, which looks like this:
   
 This is what my private key looks like:  
 ![Private Key CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168862089-e5ea11a6-5306-45ec-9dbf-d288b273e70b.png)  
+  
+I can also run git commands in the remote server, as seen here:  
+![Git Commands in ieng6 CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168866111-c76d0f74-eb12-4aa6-beaf-262c32999aab.png)  
 
   
 **#3: Copy Whole Directory With scp -r**  
