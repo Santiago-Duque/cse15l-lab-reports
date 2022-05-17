@@ -6,6 +6,9 @@ After opening the .ssh folder from the File Explorer into VScode, I wrote the fo
 Which resulted in the following output:  
 ![Lab Report #3 CSE 15L Streamlining ssh Configuration Terminal Output](https://user-images.githubusercontent.com/103283657/167768379-2d6e13b6-e3e7-44bc-a200-df7427ed7a69.png)  
   
+Now we can work with our easier login information to work in the server!:  
+![ieng6 SCP File Lab Report #3 CSE 15L](https://user-images.githubusercontent.com/103283657/168864502-4f1ed4f8-55b9-4a49-84d4-7a7e5fee641e.png)  
+  
   
 **#2: Setting up Github Access from ieng6**  
 I stored the public ssh key in github, which looks like this:  
