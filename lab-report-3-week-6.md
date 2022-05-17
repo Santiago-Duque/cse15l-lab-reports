@@ -11,6 +11,10 @@ Which resulted in the following output:
 I stored the public ssh key in github, which looks like this:  
 ![Public Key ieng6 CSE 15L Lab Report #3 Screenshot](https://user-images.githubusercontent.com/103283657/168690065-598ad911-34e1-496a-9e6c-6a52ea75ac17.png)  
   
+This is what my private key looks like:  
+![Private Key CSE 15L Lab Report #3](https://user-images.githubusercontent.com/103283657/168862089-e5ea11a6-5306-45ec-9dbf-d288b273e70b.png)  
+
+  
 **#3: Copy Whole Directory With scp -r**  
 I copied my whole markdown-parser directory into my ieng6 account as seen here:  
 ![Copy Whole Directory Lab Report #3 CSE 15L](https://user-images.githubusercontent.com/103283657/168692016-0935a5ac-2e0e-4c28-9dc6-4a8cbbad508a.png)  
