@@ -61,4 +61,14 @@ Code Written:
 Result in Terminal (does not even compile):  
 ![Lab Report #4 CSE 15L Third Snippett reviewing mdp](https://user-images.githubusercontent.com/103283657/171107288-73b74f2c-293f-454c-b58a-ec4f841bc0b0.png)  
 
+`Questions:`  
+**Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks?**  
+Yes, we can add an `if statement` which makes the terminal ignore the backticks when running the code. For example, we can write: if (markdown.contains(`)) { ... }.  
+
+**Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets?**  
+Although it is a bit more complex, I believe we can again add `if statements` to detect multiple (nested) parentheses, brackets, and escaped brackets. For example, we can write: if (markdown.contains( ( ) ) $nested parenthesis with spaces around and inbetween { ... }  
+  
+**Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses?**  
+I believe it is too complex to write a piece of code under 10 lines that will make the program work. Many factors would have to be taken into consideration when adding code, such as: spaces, newlines, parentheses, brackets, etc.  
+
 
