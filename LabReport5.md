@@ -17,7 +17,7 @@ Overall, we can see that **160.md** is the correct implementation, as it provide
 Explanation: I noticed the 350.md file produces the word *foo bar* after performing a manual search within the code. As seen above, the expected output is *foo bar*. However, when put to the test with 350.html.test, the output is the original code block:  
   
 `Second Test (350.html.test):`  
-![CSE 15L Lab Report 5 Expected VS Actual Output Test 2](https://user-images.githubusercontent.com/103283657/173174751-9b1671d3-1747-4ce9-9bb3-d5c4e4b5f2b9.png)  
+![CSE 15L Lab Report 5 Expected VS Actual Output Test (2)](https://user-images.githubusercontent.com/103283657/173175255-a934053c-4f96-486a-92e2-c22942889af1.png)  
   
 Overall, we can see that **160.md** is the correct implementation, as it provides the actual result.  
 [Link to 350.md file](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/350.md)  
